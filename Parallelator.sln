@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallelator", "Parallelator\Parallelator.csproj", "{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|ARM.ActiveCfg = Debug|ARM
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|ARM.Build.0 = Debug|ARM
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|ARM.Deploy.0 = Debug|ARM
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|ARM64.Build.0 = Debug|ARM64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|x64.ActiveCfg = Debug|x64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|x64.Build.0 = Debug|x64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|x64.Deploy.0 = Debug|x64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|x86.ActiveCfg = Debug|x86
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|x86.Build.0 = Debug|x86
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Debug|x86.Deploy.0 = Debug|x86
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|ARM.ActiveCfg = Release|ARM
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|ARM.Build.0 = Release|ARM
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|ARM.Deploy.0 = Release|ARM
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|ARM64.ActiveCfg = Release|ARM64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|ARM64.Build.0 = Release|ARM64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|ARM64.Deploy.0 = Release|ARM64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|x64.ActiveCfg = Release|x64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|x64.Build.0 = Release|x64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|x64.Deploy.0 = Release|x64
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|x86.ActiveCfg = Release|x86
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|x86.Build.0 = Release|x86
+		{31A62EC6-DD2F-4147-AAC0-940BB0C6D836}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D88ED402-0B8B-42F4-912A-16D789FAABD9}
+	EndGlobalSection
+EndGlobal

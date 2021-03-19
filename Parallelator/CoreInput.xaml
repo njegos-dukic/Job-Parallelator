@@ -1,0 +1,18 @@
+﻿<ContentDialog
+    x:Name="title"
+    x:Class="Parallelator.CoreInput"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Parallelator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    PrimaryButtonText="Submit"
+    PrimaryButtonClick="EnteredCores"
+    IsSecondaryButtonEnabled="False">
+
+    <Grid Margin="0,0,0,-9">
+        <TextBox Name="input" Margin="89,0,117,0" TextWrapping="Wrap" VerticalAlignment="Center"/>
+        <TextBlock Text="Cores: " FontSize="15" HorizontalAlignment="Left" Margin="32,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Height="24" Width="52"/>
+    </Grid>
+</ContentDialog>

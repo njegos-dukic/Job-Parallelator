@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\njego\Desktop\Parallelator\Parallelator\Assets\parallel.png</Source>
+    <SmallTileSource>C:\Users\njego\Desktop\Parallelator\Parallelator\Assets\parallel.png</SmallTileSource>
+    <MediumTileSource>C:\Users\njego\Desktop\Parallelator\Parallelator\Assets\parallel.png</MediumTileSource>
+    <WideTileSource>C:\Users\njego\Desktop\Parallelator\Parallelator\Assets\parallel.png</WideTileSource>
+    <LargeTileSource>C:\Users\njego\Desktop\Parallelator\Parallelator\Assets\parallel.png</LargeTileSource>
+    <AppIconSource>C:\Users\njego\Desktop\Parallelator\Parallelator\Assets\parallel.png</AppIconSource>
+    <SplashScreenSource>C:\Users\njego\Desktop\Parallelator\Parallelator\Assets\parallel.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\njego\Desktop\Parallelator\Parallelator\Assets\parallel.png</PackageLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>
