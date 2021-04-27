@@ -1,4 +1,4 @@
-# Parallel UWP Image Editing & Preview App <img src = "..\assets\Parallelator\Assets\parallel.png" width = 20>
+# Parallel UWP Image Editing & Preview App
 
 - Universal Windows Platform **(UWP)** is a computing platform created by Microsoft and first introduced in Windows 10. The purpose of this platform is to help develop universal apps that run on Windows 10, Windows 10 Mobile, Xbox One and HoloLens without the need to be rewritten for each. It supports Windows app development using C++, C#, VB .NET, and XAML.
 ---
